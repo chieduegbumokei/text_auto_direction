@@ -1,6 +1,6 @@
 name: text_auto_direction
 description: A Flutter package that provides the AutoDirection widget for automatic text direction detection.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/chieduegbumokei/text_auto_direction
 
 environment:

@@ -13,7 +13,7 @@ Add the following dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  auto_direction_package: ^1.0.0
+  auto_direction_package: ^0.0.2
 ```
 
 ## Usage
